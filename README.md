@@ -16,9 +16,8 @@ Web application created in laravel 7 that shows a crud of two entities.
 - Updated   :   23/08/2020
 
 ## Requirements
-- Crear un repositorio
-- Crear un proyecto en laravel
-- Instalar el paquete de autenticación de laravel
-- Crear las entidades necesarias para gestionar la seguridad y autorización del sistema (User, Rol , Permision)
-- Crear los CRUDs correspondientes a las entiades
-
+- Create a git repository
+- Create a project in laravel
+- Install the laravel authentication package
+- Create the entities necessary to manage the security and authorization of the system (User, Role, Permission)
+- Create the CRUDs corresponding to the entities
