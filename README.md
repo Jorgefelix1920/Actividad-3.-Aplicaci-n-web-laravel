@@ -14,3 +14,11 @@ Web application created in laravel 7 that shows a crud of two entities.
 - Name      :   Jorge Felix Gonzalez 
 - Time      :   11/08/2019
 - Updated   :   23/08/2020
+
+## Requirements
+- Crear un repositorio
+- Crear un proyecto en laravel
+- Instalar el paquete de autenticación de laravel
+- Crear las entidades necesarias para gestionar la seguridad y autorización del sistema (User, Rol , Permision)
+- Crear los CRUDs correspondientes a las entiades
+
