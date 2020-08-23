@@ -13,4 +13,4 @@ Web application created in laravel 7 that shows a crud of two entities.
 
 - Name      :   Jorge Felix Gonzalez 
 - Time      :   11/08/2019
-- updated   :   23/08/2020
+- Updated   :   23/08/2020
