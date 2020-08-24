@@ -18,6 +18,11 @@ Web application created in laravel 7 that shows a crud of two entities.
 ## Requirements
 - Create a git repository
 - Create a project in laravel
+- Create a DataBase name: blog-laravel [locate:DB/blog-laravel].
 - Install the laravel authentication package
 - Create the entities necessary to manage the security and authorization of the system (User, Role, Permission)
 - Create the CRUDs corresponding to the entities
+- Installation of node.js. from the following path [https://nodejs.org/es/] In order to use the install && npm run dev command.
+
+
+
